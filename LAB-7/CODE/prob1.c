@@ -10,5 +10,4 @@ void main() {
         sum += arr[i];
     }
     printf("\nSum of elements: %d\n", sum);
-    return 0;
 }
