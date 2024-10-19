@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+void main() {
     int n, sum = 0;
     printf("Enter the number of elements in the array: \n");
     scanf("%d", &n);
